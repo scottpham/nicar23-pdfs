@@ -1,6 +1,12 @@
 ## Extracting data from PDFs
 
-These are supplementary files and instructions for a workshop I'm teaching at NICAR 2023 in Nashville. I'll update the repo soon with slides and anything else people ask for during the session.
+These are supplementary files and instructions for a workshop I taught at NICAR 2023 in Nashville. If you attended, thanks for attending and keep in touch!
+
+scottgpham[at]gmail.com
+
+twitter: @scottpham
+
+### Files you need
 
 For now, simply download this whole repo. We'll use these PDFs for exercises during the workshop.
 
